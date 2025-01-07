@@ -22,6 +22,11 @@ I'm currently working on the MERN stack (debugging it at 2 AM 🐞). I love buil
   ![Real-time Applications](https://img.shields.io/badge/-Real--time%20Applications-0078D6?style=flat)
 
 
+  ### 📊 Contribution Activity
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=ragini24creator&theme=react-dark)
+
+
+
 
 
 
