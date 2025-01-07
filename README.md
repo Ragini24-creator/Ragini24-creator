@@ -22,10 +22,9 @@ I'm currently working on the MERN stack (debugging it at 2 AM 🐞). I love buil
   ![Real-time Applications](https://img.shields.io/badge/-Real--time%20Applications-0078D6?style=flat)
 
 
+
   ### 📊 Contribution Activity
-
-
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ragini24-creator&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ragini24-creator&show_icons=true&count_private=true&theme=radical)
 
 
 
