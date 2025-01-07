@@ -16,6 +16,7 @@ I'm currently working on the MERN stack (debugging it at 2 AM 🐞). I love buil
 - ⚙️ **Tools & Platforms**: 
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
   ![WebSockets](https://img.shields.io/badge/-WebSockets-000000?logo=websocket&logoColor=white&style=flat)
+  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
 
 - 🌍 **Interests**: 
   ![Real-time Applications](https://img.shields.io/badge/-Real--time%20Applications-0078D6?style=flat)
