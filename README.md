@@ -23,7 +23,7 @@ I'm currently working on the MERN stack (debugging it at 2 AM 🐞). I love buil
 
 
   ### 📊 Contribution Activity
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=ragini24creator&theme=react-dark)
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Ragini24-creator&theme=react-dark)
 
 
 
