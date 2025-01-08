@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Ragini Kishor!
-I'm currently working on the MERN stack (debugging it at 2 AM 🐞). I love building real-time systems and contributing to impactful projects.
+I'm currently working on the MERN stack (debugging it at 2 AM 🐞). I love building real-time systems and contributing to impactful projects. Open to collaboration!
 
 ### 🌐 Tech Stack
 - 💻 **Web Development**: 
