@@ -1,6 +1,9 @@
 ## Hi there 👋, I'm Ragini Kishor!
 I'm currently working on the MERN stack (debugging it at 2 AM 🐞). I love building real-time systems,APIs and contributing to impactful projects. Open to collaboration!
 
+![Profile View Counter](https://visitor-badge.glitch.me/badge?page_id=Ragini24-creator)
+
+
 ### 🌐 Tech Stack
 - 💻 **Web Development**: 
   ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
