@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Ragini Kishor!
 I'm currently working on the MERN stack (debugging it at 2 AM 🐞). I love building real-time systems, APIs and contributing to impactful projects. Open to collaboration!
-I have independently developed multiple MERN stack based applications. Some of my projects include RecommendoReads, AuthSync etc. 
+I have independently developed multiple MERN stack based applications. Some of my projects include RecommendoReads, AuthSync etc.
 
 ### 🌐 Tech Stack
 - 💻 **Web Development**: 
@@ -26,9 +26,6 @@ I have independently developed multiple MERN stack based applications. Some of m
 
   ### 📊 Contribution Activity
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ragini24-creator&show_icons=true&hide_title=true&count_private=true&hide=prs)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ragini24-creator&bg_color=ffffff&color=000000&line=00ff00&point=000000&area=true&hide_border=true)
-
 
 
 ## Top Languages
