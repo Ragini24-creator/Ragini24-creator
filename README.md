@@ -27,6 +27,9 @@ I have independently developed multiple MERN stack based applications. Some of m
   ### 📊 Contribution Activity
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ragini24-creator&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ragini24-creator&bg_color=ffffff&color=000000&line=00ff00&point=000000&area=true&hide_border=true)
+
+
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ragini24-creator&layout=compact&langs_count=6)
