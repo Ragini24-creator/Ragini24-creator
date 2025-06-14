@@ -37,10 +37,6 @@ A backend platform inspired by FIDO2, designed for multi-device session sharing 
   ![WebSockets](https://img.shields.io/badge/-WebSockets-000000?logo=websocket&logoColor=white&style=flat)
   ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
 
-- 🌍 **Interests**: 
-  ![Real-time Applications](https://img.shields.io/badge/-Real--time%20Applications-0078D6?style=flat)
-
-
 
   ### 📊 Contribution Activity
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ragini24-creator&show_icons=true&hide_title=true&count_private=true&hide=prs)
@@ -48,10 +44,6 @@ A backend platform inspired by FIDO2, designed for multi-device session sharing 
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ragini24-creator&layout=compact&langs_count=6)
-
-
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Ragini24-creator&style=flat-square)
 
 
 
