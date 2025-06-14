@@ -19,6 +19,7 @@ A backend platform inspired by FIDO2, designed for multi-device session sharing 
 > Check out the project [here](https://github.com/Ragini24-creator/AuthSync)
 
 
+
 ### 🌐 Tech Stack
 - 💻 **Web Development**: 
   ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
