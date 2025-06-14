@@ -16,7 +16,7 @@ A backend platform inspired by FIDO2, designed for multi-device session sharing 
 - 📱 Track active device IDs
 - 🔐 Secure session-based authentication with JWT
 
-> Check out the project [here](https://github.com/Ragini24-creator/AuthSync)
+> - Check out the project [here](https://github.com/Ragini24-creator/AuthSync)
 
 
 
@@ -51,6 +51,7 @@ A backend platform inspired by FIDO2, designed for multi-device session sharing 
 
 
 
+![Visitor Count](https://komarev.com/ghpvc/?username=Ragini24-creator&style=flat-square)
 
 
 
