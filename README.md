@@ -14,7 +14,7 @@ I enjoy breaking down complex backend and JavaScript concepts into beginner-frie
 - [Node.js Module Systems Simplified](https://medium.com/@raginikishor5603/import-vs-require-in-node-js-demystifying-commonjs-esm-92f3d87c6f4e)
 - [Getting Started with WebSockets](https://medium.com/@raginikishor5603/websockets-explained-how-real-time-chat-apps-work-behind-the-scenes-efe643901ade)
 
-You can check out all my blogs here: [medium.com/@raginikishor5603]
+You can check out all my blogs here: [medium.com](https://medium.com/@raginikishor5603)
 
 
 ## 📌 Featured Projects
