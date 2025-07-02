@@ -5,7 +5,7 @@ I have independently developed multiple MERN stack based applications. Some of m
 ## Connect with Me  
 - [🔗 LinkedIn] (https://www.linkedin.com/in/ragini-kaushalkishor-751518302)
 
-## ✍️ I also write technical blogs
+##  📝 Blogs & Writing
 
 I enjoy breaking down complex backend and JavaScript concepts into beginner-friendly articles.
 
