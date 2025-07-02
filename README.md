@@ -5,6 +5,18 @@ I have independently developed multiple MERN stack based applications. Some of m
 ## Connect with Me  
 - [🔗 LinkedIn] (https://www.linkedin.com/in/ragini-kaushalkishor-751518302)
 
+## ✍️ I also write technical blogs
+
+I enjoy breaking down complex backend and JavaScript concepts into beginner-friendly articles.
+
+📚 Recent posts on Medium:
+- [Understanding Async in JavaScript]((https://medium.com/@raginikishor5603/understanding-async-in-javascript-a-beginners-guide-to-asynchronous-programming-d2b4b9f18ccb))
+- [Node.js Module Systems Simplified]((https://medium.com/@raginikishor5603/import-vs-require-in-node-js-demystifying-commonjs-esm-92f3d87c6f4e))
+- [Getting Started with WebSockets]((https://medium.com/@raginikishor5603/websockets-explained-how-real-time-chat-apps-work-behind-the-scenes-efe643901ade))
+
+You can check out all my blogs here: [medium.com/@yourhandle](https://medium.com/@raginikishor5603)
+
+
 ## 📌 Featured Projects
 
 ### 🔐 [AuthSync](https://github.com/Ragini24-creator/AuthSync)
