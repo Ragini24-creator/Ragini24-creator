@@ -32,6 +32,20 @@ A backend platform inspired by FIDO2, designed for multi-device session sharing 
 
 > - Check out the project [here](https://github.com/Ragini24-creator/AuthSync)
 
+### 📝 [Tono](https://github.com/Ragini24-creator/Tono)
+
+An AI-driven tool that allows users to rephrase text into multiple tones (formal, casual, assertive, etc.) .
+
+🚀 Features:
+- Multiple tone modes (formal, informal, professional, etc.)
+- User-friendly interface with live preview
+- Built with React.js (frontend) and Node.js + Express (backend)
+- Integration with OpenAI API for dynamic tone adjustments (Currently using a Fallback version but user can uncomment and use AI based approach using their own key)
+- Rate limiting + input validation for production-readiness
+
+🔧 Tech Stack: MERN Stack | OpenAI API | TailwindCSS
+
+> - Check out the project [here](https://github.com/Ragini24-creator/Tono)
 
 
 ### 🌐 Tech Stack
