@@ -46,6 +46,7 @@ An AI-driven tool that allows users to rephrase text into multiple tones (formal
 🔧 Tech Stack: MERN Stack | OpenAI API | TailwindCSS
 
 > - Check out the project [here](https://github.com/Ragini24-creator/Tono)
+> - 🔗 [Live Demo][here](https://tono-iota.vercel.app/)
 
 
 ### 🌐 Tech Stack
