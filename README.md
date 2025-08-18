@@ -2,16 +2,6 @@
 I'm currently working on the MERN stack (debugging it at 2 AM 🐞). I love building real-time systems, APIs and contributing to impactful projects. Open to collaboration!
 I have independently developed multiple MERN stack based applications. Some of my projects include RecommendoReads, AuthSync etc.
 
-🚀 Open to Opportunities
-📌 Currently open to:
-
-Remote internships
-
-Junior developer roles
-
-Collaborations on real-world projects
-
-Always up for learning, growing, and building meaningful software.
 
 ## Connect with Me  
 - [🔗 LinkedIn] (https://www.linkedin.com/in/ragini-kaushalkishor-751518302)
