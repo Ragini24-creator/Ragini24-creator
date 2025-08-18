@@ -70,8 +70,7 @@ An AI-driven tool that allows users to rephrase text into multiple tones (formal
 
 
   ### 📊 Contribution Activity
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ragini24-creator&show_icons=true&hide_title=true&count_private=true&hide=prs)
-
+  ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ragini24-creator&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ragini24-creator&layout=compact&langs_count=6)
