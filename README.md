@@ -58,6 +58,10 @@ An AI-driven tool that allows users to rephrase text into multiple tones (formal
   ![Express](https://img.shields.io/badge/-Express.js-000?logo=express&logoColor=white&style=flat)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
   ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat)
+
+  - **Backend Service** :
+  - ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat)
 
 - 📜 **Programming**: 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
