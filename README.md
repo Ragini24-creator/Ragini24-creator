@@ -2,6 +2,11 @@
 I'm currently working on the MERN stack (debugging it at 2 AM 🐞). I love building real-time systems, APIs and contributing to impactful projects. Open to collaboration!
 I have independently developed multiple MERN stack based applications. Some of my projects include RecommendoReads, AuthSync etc.
 
+### 🚀 Open Source
+- Author of [your-package-name](https://www.npmjs.com/package/@rkdev3/magic-link) on npm  
+  ![npm](https://img.shields.io/npm/dt/@rkdev3/magic-link?label=downloads&color=blue)
+
+
 
 ## Connect with Me  
 - [🔗 LinkedIn] (https://www.linkedin.com/in/ragini-kaushalkishor-751518302)
