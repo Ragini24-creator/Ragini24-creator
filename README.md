@@ -3,9 +3,8 @@ I'm currently working on the MERN stack (debugging it at 2 AM 🐞). I love buil
 I have independently developed multiple MERN stack based applications. Some of my projects include RecommendoReads, AuthSync etc.
 
 ### 🚀 Open Source
-- Author of [your-package-name](https://www.npmjs.com/package/@rkdev3/magic-link) on npm  
+- Author of [magic-link](https://www.npmjs.com/package/@rkdev3/magic-link) on npm  
   ![npm](https://img.shields.io/npm/dt/@rkdev3/magic-link?label=downloads&color=blue)
-
 
 
 ## Connect with Me  
