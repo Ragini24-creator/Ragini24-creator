@@ -1,6 +1,5 @@
 ## Hi there 👋, I'm Ragini Kishor!
-I'm currently working on the MERN stack (debugging it at 2 AM 🐞). I love building real-time systems, APIs and contributing to impactful projects. Open to collaboration!
-I have independently developed multiple MERN stack based applications. Some of my projects include RecommendoReads, AuthSync etc.
+I'm currently working on the MERN stack and exploring real-time apps. 
 
 ### 🚀 Open Source work
 
@@ -24,36 +23,6 @@ I enjoy breaking down complex backend and JavaScript concepts into beginner-frie
 
 
 You can check out all my blogs here: [medium.com](https://medium.com/@raginikishor5603)
-
-
-## 📌 Featured Projects
-
-### 🔐 [AuthSync](https://github.com/Ragini24-creator/AuthSync)
-A backend platform inspired by FIDO2, designed for multi-device session sharing and secure authentication workflows.
-
-**Highlights:**
-- 🔄 Sync sessions across devices
-- 🛑 Emergency Lockout for user accounts
-- 📱 Track active device IDs
-- 🔐 Secure session-based authentication with JWT
-
-> - Check out the project [here](https://github.com/Ragini24-creator/AuthSync)
-
-### 📝 [Tono](https://github.com/Ragini24-creator/Tono)
-
-An AI-driven tool that allows users to rephrase text into multiple tones (formal, casual, assertive, etc.) .
-
-🚀 Features:
-- Multiple tone modes (formal, informal, professional, etc.)
-- User-friendly interface with live preview
-- Built with React.js (frontend) and Node.js + Express (backend)
-- Integration with OpenAI API for dynamic tone adjustments (Currently using a Fallback version but user can uncomment and use AI based approach using their own key)
-- Rate limiting + input validation for production-readiness
-
-🔧 Tech Stack: MERN Stack | OpenAI API | TailwindCSS
-
-> - Check out the project [here](https://github.com/Ragini24-creator/Tono)
-> - 🔗 [Live Demo] (Fallback version) [here](https://tono-iota.vercel.app/)
 
 
 ### 🌐 Tech Stack
