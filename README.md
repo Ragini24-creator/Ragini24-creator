@@ -1,5 +1,5 @@
-## Hi there 👋, I'm Ragini Kishor!
-I'm currently working on the MERN stack and exploring real-time apps. 
+## Hi there 👋, I'm Ragini!
+I'm currently working and exploring real-time apps. 
 
 ### 🚀 Open Source work
 
