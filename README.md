@@ -26,11 +26,4 @@ You can check out all my blogs here: [medium.com](https://medium.com/@raginikish
 
 
 
-### 📊 Contribution Activity
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ragini24-creator&show_icons=true&hide_title=true&count_private=true&hide=prs)
-
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ragini24-creator&layout=compact&langs_count=6)
-
-
 
